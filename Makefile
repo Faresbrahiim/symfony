@@ -40,3 +40,5 @@ clear: stop down
 
 list:
 	docker compose ps
+
+
